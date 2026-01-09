@@ -1,19 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Beaconhouse National University Mail with screen readers
-
-1 of 255
-(no subject)
-Inbox
-
-Dua Zainab Zahra <f2025-0846@bnu.edu.pk>
-Attachments
-9:20 PM (4 minutes ago)
-to me
-
- 3 Attachments
-  •  Scanned by Gmail
 #include<iostream>
 using namespace std;
 
@@ -73,5 +57,3 @@ int main() {
     
     return 0;
 }
-#3.txt
-Displaying #3.txt.

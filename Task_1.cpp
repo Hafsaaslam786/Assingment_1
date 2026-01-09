@@ -1,19 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Beaconhouse National University Mail with screen readers
-
-1 of 255
-(no subject)
-Inbox
-
-Dua Zainab Zahra <f2025-0846@bnu.edu.pk>
-Attachments
-9:20 PM (12 minutes ago)
-to me
-
- 3 Attachments
-  •  Scanned by Gmail
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -76,24 +60,3 @@ int main() {
     
     return 0;
 }
-
-
-
-    // Explanation in comments:
-    /*
-    DIFFERENCE IN OUTPUTS EXPLANATION:
-    
-    1. PRECISION LOSS: When casting from double to int, the decimal part is truncated (not rounded).
-       Example: 5.789 becomes 5, 3.999 becomes 3
-    
-    2. INTEGER DIVISION: When dividing integers, the result is also an integer (decimal part truncated).
-       Example: 5 / 2 = 2 (not 2.5)
-    
-    3. NO DECIMAL PLACES: Integer results don't have decimal places, so formatting with setprecision(3) 
-       doesn't affect them.
-    
-    4. POTENTIAL DATA LOSS: Large floating point numbers might lose significant digits when cast to int.
-    */
-
-#1.txt
-Displaying #3.txt.
